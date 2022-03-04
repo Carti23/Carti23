@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Carti23)**
 
-- 📫 How to reach me **romahaohrim@@gmail.com**
+- 📫 How to reach me **romahaohrim@gmail.com**
 
 - ⚡ Fun fact **I play games.**
 
