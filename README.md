@@ -6,13 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Nginx, and improving my Django skils.**
-
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Carti23)**
 
 - 📫 How to reach me **romahaohrim@gmail.com**
-
-- ⚡ Fun fact **I play games.**
 
 ## 🚀 Languages and Tools:
 
